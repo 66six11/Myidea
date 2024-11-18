@@ -1,0 +1,13 @@
+{
+  "name": "代码设计",
+  "sort": 2,
+  "icon": "267e-fe0f",
+  "closed": false,
+  "refCreateSaveBox": "",
+  "refCreateSavePath": "",
+  "docCreateSaveBox": "",
+  "docCreateSavePath": "",
+  "dailyNoteSavePath": "/daily note/{{now | date \"2006/01\"}}/{{now | date \"2006-01-02\"}}",
+  "dailyNoteTemplatePath": "",
+  "sortMode": 15
+}

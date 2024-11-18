@@ -1,0 +1,250 @@
+{
+  "local-bazaar": {
+    "icon": "2",
+    "plugin": "2",
+    "template": "0",
+    "theme": "2",
+    "widget": "0"
+  },
+  "local-codelang": "c",
+  "local-dialogposition": {
+    "dialog-setting": {
+      "height": 964,
+      "left": 116,
+      "top": 47,
+      "width": 1280
+    }
+  },
+  "local-fileposition": {
+    "20200812220555-lj3enxa": {
+      "endId": "20240508001403-j8ceveg",
+      "focusEnd": 2,
+      "focusId": "20240507235944-5kf9qnr",
+      "focusStart": 2,
+      "rootId": "20200812220555-lj3enxa",
+      "scrollTop": 1100,
+      "startId": "20210528115012-vst5lwt"
+    },
+    "20200813004931-q4cu8na": {
+      "endId": "20230419153207-l40wjv2",
+      "focusEnd": 0,
+      "focusId": "20210118100623-i00rgj0",
+      "focusStart": 0,
+      "rootId": "20200813004931-q4cu8na",
+      "scrollTop": 0,
+      "startId": "20210118100623-i00rgj0"
+    },
+    "20200915214115-42b8zma": {
+      "endId": "20230414202749-qbcnypq",
+      "focusEnd": 0,
+      "focusId": "20210503095355-r83044o",
+      "focusStart": 0,
+      "rootId": "20200915214115-42b8zma",
+      "scrollTop": 2000,
+      "startId": "20210503095355-r83044o"
+    },
+    "20210615211733-v6rzowm": {
+      "endId": "20220807180308-7hyw96s",
+      "focusEnd": 0,
+      "focusId": "20220501134357-003dftr",
+      "focusStart": 0,
+      "rootId": "20210615211733-v6rzowm",
+      "scrollTop": 2200,
+      "startId": "20220501134357-003dftr"
+    },
+    "20210824201257-cy7icrc": {
+      "endId": "20221114172636-pirwdpa",
+      "focusEnd": 0,
+      "focusId": "20210824201352-apdkqps",
+      "focusStart": 0,
+      "rootId": "20210824201257-cy7icrc",
+      "scrollTop": 0,
+      "startId": "20210824201352-apdkqps"
+    },
+    "20230106101434-e6g4av3": {
+      "endId": "20241118192743-v0jwhmp",
+      "focusEnd": 1,
+      "focusId": "20230106103718-0adtij4",
+      "focusStart": 1,
+      "rootId": "20230106101434-e6g4av3",
+      "scrollTop": 467,
+      "startId": "20230106101434-otjrwff"
+    },
+    "20230303235619-ex5l63e": {
+      "endId": "20230304000206-b18o0sx",
+      "focusEnd": 5,
+      "focusId": "20230303235639-lx58u3y",
+      "focusStart": 5,
+      "rootId": "20230303235619-ex5l63e",
+      "scrollTop": 0,
+      "startId": "20230303235619-xwwiur1"
+    },
+    "20230429114837-70asb4j": {
+      "endId": "20230429114837-uavwo4u",
+      "focusEnd": 0,
+      "focusId": "20230429114837-3y8u0uj",
+      "focusStart": 0,
+      "rootId": "20230429114837-70asb4j",
+      "scrollTop": 0,
+      "startId": "20230429114837-3y8u0uj"
+    },
+    "20230519105228-hm0y74i": {
+      "endId": "20230519111423-06jsy8x",
+      "focusEnd": 0,
+      "focusId": "20230519110330-gcjb0yi",
+      "focusStart": 0,
+      "rootId": "20230519105228-hm0y74i",
+      "scrollTop": 200,
+      "startId": "20230519110202-1k238kq"
+    },
+    "20230805230131-sn7obzb": {
+      "endId": "20230805233629-cefelxe",
+      "focusEnd": 35,
+      "focusId": "20230805230746-fejfd76",
+      "focusStart": 35,
+      "rootId": "20230805230131-sn7obzb",
+      "scrollTop": 0,
+      "startId": "20230805230131-14bfide"
+    },
+    "20230805230218-aea8icj": {
+      "endId": "20230903112243-pwm33kc",
+      "focusEnd": 0,
+      "focusId": "20230818101510-yjc0r0h",
+      "focusStart": 0,
+      "rootId": "20230805230218-aea8icj",
+      "scrollTop": 0,
+      "startId": "20230818101510-yjc0r0h"
+    },
+    "20230808120347-3cob0nb": {
+      "endId": "20230808120347-um16u4f",
+      "focusEnd": 0,
+      "focusId": "20230808120347-wx5cr4v",
+      "focusStart": 0,
+      "rootId": "20230808120347-3cob0nb",
+      "scrollTop": 0,
+      "startId": "20230808120347-wx5cr4v"
+    },
+    "20230808120347-mw3qrwy": {
+      "endId": "20230808120347-j8xikmg",
+      "focusEnd": 0,
+      "focusId": "20230808120347-2713rg4",
+      "focusStart": 0,
+      "rootId": "20230808120347-mw3qrwy",
+      "scrollTop": 0,
+      "startId": "20230808120347-2713rg4"
+    },
+    "20230808120347-pzvmkik": {
+      "endId": "20230912091106-1ug6rjz",
+      "focusEnd": 0,
+      "focusId": "20230808120347-41i7jey",
+      "focusStart": 0,
+      "rootId": "20230808120347-pzvmkik",
+      "scrollTop": 300,
+      "startId": "20230808120347-41i7jey"
+    },
+    "20230808120348-hynr7og": {
+      "endId": "20230808120348-qxwlf1n",
+      "focusEnd": 0,
+      "focusId": "20230808120348-acmzrvi",
+      "focusStart": 0,
+      "rootId": "20230808120348-hynr7og",
+      "scrollTop": 1654,
+      "startId": "20230808120348-acmzrvi"
+    },
+    "20230808120348-lgcp9zm": {
+      "endId": "20230808120348-c017oom",
+      "focusEnd": 2,
+      "focusId": "20230808120348-tbzcgy7",
+      "focusStart": 2,
+      "rootId": "20230808120348-lgcp9zm",
+      "scrollTop": 0,
+      "startId": "20230808120348-jzidvij"
+    },
+    "20230808120348-yut741f": {
+      "endId": "20230808120348-fti66eq",
+      "focusEnd": 0,
+      "focusId": "20230808120348-pbvrmeh",
+      "focusStart": 0,
+      "rootId": "20230808120348-yut741f",
+      "scrollTop": 0,
+      "startId": "20230808120348-fti66eq"
+    },
+    "20240208113259-nykkvaq": {
+      "endId": "20240818174124-ab1x2an",
+      "focusEnd": 0,
+      "focusId": "20240208113259-sp3g7zb",
+      "focusStart": 0,
+      "rootId": "20240208113259-nykkvaq",
+      "scrollTop": 0,
+      "startId": "20240208113259-sp3g7zb"
+    },
+    "20241114173715-it590ps": {
+      "endId": "20241114173715-rzja472",
+      "focusEnd": 0,
+      "focusId": "20241114173715-jkviy4q",
+      "focusStart": 0,
+      "rootId": "20241114173715-it590ps",
+      "scrollTop": 0,
+      "startId": "20241114173715-jkviy4q"
+    },
+    "20241114173849-h3dzc0y": {
+      "endId": "20241114174418-eii646b",
+      "rootId": "20241114173849-h3dzc0y",
+      "scrollTop": 4616,
+      "startId": "20241114174037-gffd0f0"
+    },
+    "20241114181116-jgpv9jm": {
+      "endId": "20241114182101-fsn8v1k",
+      "focusEnd": 0,
+      "focusId": "20241114182101-fsn8v1k",
+      "focusStart": 0,
+      "rootId": "20241114181116-jgpv9jm",
+      "scrollTop": 0,
+      "startId": "20241114182101-fsn8v1k"
+    },
+    "20241114182725-u4c9t76": {
+      "endId": "20241114182726-u3hdxrx",
+      "rootId": "20241114182725-u4c9t76",
+      "scrollTop": 2806,
+      "startId": "20241114182726-a1m0gge"
+    },
+    "20241118130527-dc8vhbh": {
+      "endId": "20241118130527-w9j8ol1",
+      "rootId": "20241118130527-dc8vhbh",
+      "scrollTop": 1217,
+      "startId": "20241118130527-xnge31c"
+    }
+  },
+  "local-filespaths": [
+    {
+      "notebookId": "20210808180117-czj9bvb",
+      "openPaths": [
+        "/20200812220555-lj3enxa/20210808180321-hbvl5c2/20230106101434-e6g4av3.sy"
+      ]
+    }
+  ],
+  "local-history": {
+    "notebookId": "%",
+    "operation": "all",
+    "sideDiffWidth": "256px",
+    "sideDocWidth": "256px",
+    "sideWidth": "256px",
+    "type": 0
+  },
+  "local-searchkeys": {
+    "col": "",
+    "colTab": "",
+    "keys": [
+      "#​pragma顶点和#",
+      "#​pragma顶点”和#",
+      "#战斗系统#",
+      "#技能系统#",
+      "#​UNITY_MATRIX_MVP#"
+    ],
+    "layout": 0,
+    "layoutTab": 0,
+    "replaceKeys": [],
+    "row": "",
+    "rowTab": ""
+  }
+}

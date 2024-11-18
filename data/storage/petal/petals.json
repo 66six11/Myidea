@@ -1,0 +1,47 @@
+[
+	{
+		"name": "siyuan-importer",
+		"displayName": "导入工具",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-plugins-index",
+		"displayName": "目录插件",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-plugin-background-cover",
+		"displayName": "替换背景图片",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-plugin-embedding-pdf",
+		"displayName": "PDF嵌入器",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "link-icon",
+		"displayName": "链接图标",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	}
+]
