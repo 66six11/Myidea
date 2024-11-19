@@ -262,7 +262,7 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "374px",
+              "size": "288px",
               "type": "left"
             },
             {
@@ -270,50 +270,95 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1731929554613",
+                      "activeTime": "1731984830567",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20200812220555-lj3enxa",
+                        "blockId": "20241118130527-dc8vhbh",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20210808180117-czj9bvb",
-                        "rootId": "20200812220555-lj3enxa"
-                      },
-                      "docIcon": "1f389",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "请从这里开始"
-                    },
-                    {
-                      "activeTime": "1731929554729",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20210615211733-v6rzowm",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20210808180117-czj9bvb",
-                        "rootId": "20210615211733-v6rzowm"
+                        "notebookId": "20241114134402-wh1j1az",
+                        "rootId": "20241118130527-dc8vhbh"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "数据历史"
+                      "title": "HLSL中的pragma指令 - Unity 手册"
+                    },
+                    {
+                      "activeTime": "1731984829854",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241114173715-it590ps",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241114134402-wh1j1az",
+                        "rootId": "20241114173715-it590ps"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "内置着色器变量"
                     },
                     {
                       "active": true,
-                      "activeTime": "1731929558406",
+                      "activeTime": "1731985004411",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20230106101434-e6g4av3",
+                        "blockId": "20241119102740-h0my8wk",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20210808180117-czj9bvb",
-                        "rootId": "20230106101434-e6g4av3"
+                        "notebookId": "20241114134402-wh1j1az",
+                        "rootId": "20241119102740-h0my8wk"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "工作空间"
+                      "title": "在 HLSL 中声明和使用着色器关键字 - Unity 手册"
+                    },
+                    {
+                      "activeTime": "1731984828774",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241119104212-0zvwp1v",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241114134402-wh1j1az",
+                        "rootId": "20241119104212-0zvwp1v"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "着色器关键字 - Unity 手册"
+                    },
+                    {
+                      "activeTime": "1731984912885",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241119103639-shzdnl6",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241114134402-wh1j1az",
+                        "rootId": "20241119103639-shzdnl6"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "着色器中的条件语句 - Unity 手册"
+                    },
+                    {
+                      "activeTime": "1731984961890",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241119103015-t8x0ztl",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241114134402-wh1j1az",
+                        "rootId": "20241119103015-t8x0ztl"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "HLSL中的目标着色器模型和GPU功能 - Unity 手册"
                     }
                   ],
                   "height": "",
@@ -384,7 +429,7 @@
             "show": true,
             "size": {
               "height": 0,
-              "width": 374
+              "width": 288
             },
             "title": "文档树",
             "type": "file"
@@ -489,7 +534,7 @@
       "pin": true
     }
   },
-  "userData": "d716d5d6812229ac440f08261821941a967d5b015c1e822c95eb25719ae0351015c5ed9b764ac4868404530d1262f1e59a6f7a785209840c1b7f9f3fba15c6f59af5243337d932f3e81ae1f0277bc274bd4ef7ea5a79a001b3c39922a8b2f60f040fc1179d1eacb67432a98093c787c5637e0076b4bb00e69811819a012816dc3544ec312c6b37f93ad1e1261619e95f601051062c78036bd0d1e6d4d437b9dc475d26e89783760a3e9f9f028e9830746aa219e656c6d9df8b3b7c6464de526e5302ec8ae029192d534b7654d20d0ecf107394b01ccdd9dd133a417438794ad46c952c4372cde6a9f89a53c14d08a862cb4ba802233ea7c971648b6fd3b633edfb698c87413ae9a8fceef42c0d4408ae161b0e9a6f25430244ab458b930f9069dd1d2c9696e6294abf11ec66548c3398a2a244167442904aaaf6989d1242cbfacf5794615339f2ed3941b9280d01b30c8a13db0e2f462c511aa2e515374df29451c0b800810191f92ad900414aa80253a50114900c9923882f7cc54bdbfca243ca8ea8f1059330184e759eecb82afe5b223cf67c3fa1de345b264ce475c349241faa7b122c97f3caa8a29ca5edfb77f2aa92fd5f5c5e00a175aabb2c77746df6fae2c68676503d97091768b4f58991986ea4c894dc386bf06999a58106fafcca31d5e16ddfc436603dd51b42c80479bdb29a156fd3cb48c29ba780828ab4befca869ef70328078219c29969db53d3160135b2e12a15b5ba6d84e268f199cd29f94f83905dc98e735292af57487bdfec149d1541138e184284d9c8af279db0e5000a1276b753656ea80c72fb4f4932cb1f7c416a6c22b8183c6289ee7d434fb1d0093bedef9910f1be4bbd81da38cb9c31381da9d69865ed17a0826ac096226b02c10459f03240565864a46c19aee1f9c7ea1f8f20d3b05b9d13fd2d59253833f82f2a07312325d1aad2cd80f2fd6b3aabdd8947b45db2dd2a4d3f5c264961e403b7da79a844ae37d1ccf3f6c9b7c25e1cc7ecb94004060c465b3944befb82115260a5799ed35dda3169f55de2cb5cdea9e88fdb2903cf8c00907e333213dc7485a93e5aeb65efe2b904c8f00e315c73795b12cdabf6f200ee7d890878006d0b047e10be1566acb3f37d6868dfe60f6a7afb0c97f8258a3c83e38bd96216a9178ab39dedeae8369c4e456cb148ef543d9246aff5d2dacb8bb08f743ff0ea288d91e47f744381e96a105337284f5b29edb7d8bbe7c63f17a0d760fdb0037e498e9166c5e3b14fdf0d0098365455eb048c729af34231edbbdc546d03ca37bd0e1673786f7b9fb3df4384cf49f7d39effa78b9b0e05d37bedc2ebc090ba72bf61627351b4b57d40985b2ecf80099e03b40bf5234ef54f403c962c5ad3436624b39722a29caf00591681ca538573097e9ee738fcc14872e8edf4a1bed422c239d6eb6c4a883a4bf2611b22ccb63dbabb5f7da19bcbe8c0a323d24a8f35631e513c848ff0414dc6a3eddc80beafd44ecb259140e15a2dabb29fb452b82a55a54cd28d0367eec5f2b0c4f4cb2daac0281250afba0a40115b1aaa41b98d453c6f985a890dcece24603754677d49923c6b25317374d9b50ecd346038487352d42e113f8c87e53fecdde545a78c385ff96f4bd0dcf5d20cde0fd98640a30c340bd88eade8eb9bcc683d23eb257c312d798a3dd0a6b7170d3ec3de960f3745a27c773c913153c69dd40a76bde26ac3ea00986f79fe1265df119b7951303d63603867d85f4cec9f0b010ac691f441d10af91101527fdabf705fa29a55115cfd489e5bb27fd2f3a3dacd66bc6b74197f5eb22751056b07ada972413b2634f846d951320e4f444e762b7360a5792af2c86a1ed6c89b435263255d16cf1efe986f14bc58094624ff4b4817c5095553e2f74c69d45c36dedbfbcdb5ded51f2e5e2ea6db0fd70e91759d42f1fba6250e3dcb1a9c37c9fb27173386e12d250413ac2d38d4ea8d6a6a1249222b27e5b154c9956e56f7e1c66e5bb2f59cd5bfd484bc0ad602d7629b92e2186b39116fd27ff63a2e68c4477dd85450a0bb81ccfa569a4e094a4f94e8d83541eeb02575ad84d150e4903da01c0288d021adddd001f55f9a2296b075996bc9cb8634430e2593b5666ad78c34cc11f56e28bb3989b8c0d9af290902480cf9f79c0831d21db968998e5964a1838f3d530246f6e13261a1d99771d411eb454b75d5bb1540b941b9fe5f8d0566814cfd626ccce03aef710cebb2db9bcb67ab820e571e5123bb475bc744ab76168af22c0e5dc2196865162a2067a3a36855297d3f9a1f2a385be7b4d1329a06468250ed65be3370886429f621ae105dee0c713e7e535d394f5f0533257f44e9b300326133bd74a5e14cd4c93b8cf31b889a05ff518174c91da9401a80f55862966d0dc0bd2debf036d0ffce055002388d64f9ecbc097ad9eda13ac7e4dba9a8f6c8d4d8d445b1b33bcba825b9a944054379d5fa2c1145e4498404c6813a22a2f6ace21ddeec493e3eae483b48db4d05a20de6ecd77a184934cbe3092a67ee65d2d490876c21d91f4a30a7affb44433fbde722d9073440c047e10c4b865a9c2b2798100edd8adc75326017b337ea27a366ede0368daf9e2536eb44e0249d4984cd9fdd94432bf921a3f75d1654d1ad50306a45464f62d6109840aff1b8572ea1ccce045b32bc437df4e687f1d03d74e1558ebc4ac2e82f8d398acf5fc8848d11056b9133c9a5ac0a45751e72947bce84480e3c054fc33247e77c6105671975d4d898f84b2bc0134b47e9675784418e262242b9ac081354fd8ba4b27d21e1069c1f0ab0711588d20ad32ecf1bea641fead9d6b032d689598f02a67fee173e0fbc9f9bdeba0eaa1b3e640bba6fcb043ee1e5d193a11df6f4eee3d1b781f12fcb1fb296fd3aa7fe335fc6f38f230a03668051f79eb62faf5d4fec1b748742f4f95df125d5315670a33558a0ca94911f8a7351efbf33d74d89172e5f6767066e60b0d1579b153a75a00dc24f36bdd95d6cbe2a280a87aa7b1db39a2d44328c9215072c8633dfb4d826a6ae011f5c54c6d7e95ba47c81eb453462abcc8cc79f8179bc39e2f2c776633fca39fc3cb4e5c8049f26f5ea7043045f00b27f4dc3cefae77ce12047b09583a1804b09ed66b641faac4b646fa637c1e051fe64e3d14637c05cda01f222a3879493629e27cc52711a3ce8820be8c3fd705ca554a065ced0ab2d18b8b927ffd464e743b364d9f2165b344a763170e091954abc9f2aad6f4c752e5e1979df8ea523b366c64e0a97567a91f1a519aa139de08dae4a4b9b983d2fb398164afaaa583d716408523cdb0fd8087cd08870935a327e37fee399ab6a620d843fb87790e8c120f8e835588fd783af82eb715e98c655a6c90f807aada6f0208354d6772",
+  "userData": "d716d5d6812229ac440f08261821941a967d5b015c1e822c95eb25719ae0351015c5ed9b764ac4868404530d1262f1e59a6f7a785209840c1b7f9f3fba15c6f59af5243337d932f3e81ae1f0277bc274bd4ef7ea5a79a001b3c39922a8b2f60f040fc1179d1eacb67432a98093c787c5637e0076b4bb00e69811819a012816dc3544ec312c6b37f93ad1e1261619e95f601051062c78036bd0d1e6d4d437b9dc475d26e89783760a3e9f9f028e9830746aa219e656c6d9df8b3b7c6464de526e5302ec8ae029192d534b7654d20d0ecf107394b01ccdd9dd133a417438794ad46c952c4372cde6a9f89a53c14d08a862cb4ba802233ea7c971648b6fd3b633edfb698c87413ae9a8fceef42c0d4408ae161b0e9a6f25430244ab458b930f9069dd1d2c9696e6294abf11ec66548c3398a2a244167442904aaaf6989d1242cbfacf5794615339f2ed3941b9280d01b30c8a13db0e2f462c511aa2e515374df29451c0b800810191f92ad900414aa80253a50114900c9923882f7cc54bdbfca243ca8ea8f1059330184e759eecb82afe5b223cf67c3fa1de345b264ce475c349241faa7b122c97f3caa8a29ca5edfb77f2aa92fd5f5c5e00a175aabb2c77746df6fae2c68676503d97091768b4f58991986ea4c894dc386bf06999a58106fafcca31d5e16ddfc436603dd51b42c80479bdb29a156fd3cb48c29ba780828ab4befca869ef70328078219c29969db53d3160135b2e12a15b5ba6d84e268f199cd29f94f83905dc98e735292af57487bdfec149d1541138e184284d9c8af279db0e5000a1276b753656ea80c72fb4f4932cb1f7c416a6c22b8183c6289ee7d434fb1d0093bedef9910f1be4bbd81da38cb9c31381da9d69865ed17a0826ac096226b02c10459f03240565864a46c19aee1f9c7ea1f8f20d3b05b9d13fd2d59253833f82f2a07312325d1aad2cd80f2fd6b3aabdd8947b45db2dd2a4d3f5c264961e403b7da79a844ae37d1ccf3f6c9b7c25e1cc7ecb94004060c465b3944befb82115260a5799ed35dda3169f55de2cb5cdea9e88fdb2903cf8c00907e333213dc7485a93e5aeb65efe2b904c8f00e315c73795b12cdabf6f200ee7d890878006d0b047e10be1566acb3f37d6868dfe60f6a7afb0c97f8258a3c83e38bd96216a9178ab39dedeae8369c4e456cb148ef543d9246aff5d2dacb8bb08f743ff0ea288d91e47f744381e96a105337284f5b29edb7d8bbe7c63f17a0d760fdb0037e498e9166c5e3b14fdf0d0098365455eb048c729af34231edbbdc546d03ca37bd0e1673786f7b9fb3df4384cf49f7d39effa78b9b0e05d37bedc2ebc090ba72bf61627351b4b57d40985b2ecf80099e03b40bf5234ef54f403c962c5ad3436624b39722a29caf00591681ca538573097e9ee738fcc14872e8edf4a1bed422c239d6eb6c4a883a4bf2611b22ccb63dbabb5f7da19bcbe8c0a323d24a8f35631e513c848ff0414dc6a3eddc80beafd44ecb259140e15a2dabb29fb452b82a55a54cd28d0367eec5f2b0c4f4cb2daac0281250afb8e2e57106c14d1927f84e5318c0c90d6655d45cd3213f1cc8d6623749ba5e46511a29df2fe481443db3e6ab5941a1c2e74e58c48b319da50870f81da6aa86eda43cb832ecf5b1d076df9d2a73573871f83b06b9044fc9286410f685c1cc7bc10e03b29bcb5658b4cccaa7e3cf30ca1a1c00f3da85474c3f544a2b1c88401a73e03bfda90f61e13ecf683917ea2e00c0cf96223167460515dbecbd80f9db2c048e0f5aa2335ddae353221e9418bba462977f014c54fd263808d266a291262bdeb88bebef3a57947e7b94337b6f636832e97892ea8c9d2289845ec3666bcf6ccf1a8c5622eb89060da2fc65edff37e7d6fe5fd34e328220b463a6cd05feaaacb31c351f90fa429d35a23bcb9aeaa4f827a869b1c584503c9165d827dd06f21ea9eee86049186af8c0b8d4e8597313f37182cb48390c60cf23f40be26d9611c80ffefbff3890138a0928fdf23fba64fe3332fbd1d819e4d3e985166551d279282d9b99fd53ab842506485731a3ca401d28bde8ffc7de9f10c07a7cf44cee6a18c2dd13732a6cbcd266853a341d2d1a27307bb4ff3e563cdb2c6ceadcbe25087c8591e60d52a1c32417506a0e5f097681d039d82058143b67a15a03125a789fd548f2044d89f25f7d72a5d2de70422f1db8216591641de7262b159ce08bce4acab1f478a7b91a263a8a5a719474b653a9b517f9a726813f6aa1c2e30ab498ef362ddea77824681bdd39a757c0e7cd20105c8f965a0de570b054d20c73f700dc85dd625e69bc988ed8ab618ee798c0bd5c65fd396e1ded9ae814c515886bcde2112a7fc7405e194edc8796b5cfd6ec21f1fc7cbd5092dc61f5fca4a71f099583b20d57b50c6312f8ea4f4daa86120455684c853805b368733926d553bf5363a6e5f6cf5ea2c40e838c551ab2eb62c20815ff6a3fdab7d5b1d3b70b8561d2f71443a085ff79856940d08a590eb9be9e2dcc0929029d01ff84ea2254d70375c89b0eb921dc4e1664ea22de8af681c34f23da8c1accacbd2c9d7a3d4250aab87322606a68a7439026ca357579aaa4ac24182e782b34acc7c440dcc89223c04eb477f40c6271f70747c2d193915bf021fc3deeb20aeb5ed96186bcc16ca73e62cc5f553b4b7f197dd2c93c7b2f14538ecd40515fe90fab45a192a008f260bfb01cb3393ecf65962ae313f0599f112823c5815ba13b6f9fe4f1ab5d6b187c435970e26da273f7c105fa000243bcf6a390275850f27bb789d778f1ecfb9a4ae0e65cee6e56e4042e114398449866936adc56f101fbb22110d052afc8fb1cd925fd1493043595dc028d207b14b29152db014ab317d6e0215b753a4eb6f0f51caf873d9a3d398afedc2dd08e63e0f218a88582160dbed1f202c5478f3bbeef3ff4b949ff426d5cbdcc391513da6a486a5e55f6ed57e9e8082da61e1f95136503af24db0a67b110cfa22f3b2ec26011bddd49dc780c7a266d4793498b92d8d44d0ea200269ea106cdfdd7fbc61b94cbd28b02d2eee011cb1b2a69133513901ff00a3cc87b3fb8971eb3719576fade6ccb649aca03a28a74219e5cdaa671627b7cda734f7d4d76dfd218ac75765440f4d86d1a443c085da700efd9c3a8a58185fcb7285707bbf1b12d91f0c95f0f860b1854bc376713db62a612653ce99bd6c9029c3ed090259cb301704d53313bd71eaa648259ddcd52ce5624edc687c814e25477172bf6de22f4002169b7638b4475fe21e15b3250643a83906017c46aaed80d47d52c8cd0983b647d3fd2d7b451108ea5a53b22b38bf691c532cd188c3c5146bee1161ab2ee224e97243e8baf16d15c785c63012fd6f62c735df52206fb14fd5c070d6f30e27",
   "account": {
     "displayTitle": true,
     "displayVIP": true
@@ -498,16 +543,14 @@
   "localIPs": [
     "127.0.0.1",
     "10.16.145.121",
+    "192.168.0.63",
     "169.254.250.236",
     "169.254.53.54",
-    "169.254.232.146",
-    "169.254.99.206",
     "169.254.186.59",
     "169.254.91.7",
     "[::1]",
     "[fe80::d3e3:a0fc:3e0f:84fb]",
     "[fe80::a623:c5e1:e6df:fbb6]",
-    "[fe80::f3a2:a6a1:2819:5b2b]",
     "[fe80::7210:44b6:735:728b]",
     "[fe80::8a46:eaa9:1a9e:7f1c]",
     "[fe80::7c38:400:cdac:26aa]",
@@ -1181,8 +1224,8 @@
     "enabled": true,
     "perception": false,
     "mode": 1,
-    "synced": 1731930317213,
-    "stat": "上传/下载文件数 0/1\u003cbr\u003e\u0026emsp;上传/下载分块数 0/0\u003cbr\u003e\u0026emsp;发送/接收字节数 0 B/27.83 kB",
+    "synced": 1731988834178,
+    "stat": "上传/下载文件数 0/1\u003cbr\u003e\u0026emsp;上传/下载分块数 0/0\u003cbr\u003e\u0026emsp;发送/接收字节数 0 B/28 kB",
     "generateConflictDoc": false,
     "provider": 0,
     "s3": {
@@ -1277,7 +1320,7 @@
     "cTreeCount": 100,
     "blockCount": 605,
     "cBlockCount": 5000,
-    "dataSize": 40025245,
+    "dataSize": 40029608,
     "cDataSize": 104857600,
     "assetsSize": 28862741,
     "cAssetsSize": 104857600
